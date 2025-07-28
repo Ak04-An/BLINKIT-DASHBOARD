@@ -24,16 +24,16 @@ i) Outlet Location (Tier 1,2,3 )
 J) Fat Content ( Low Fat / Regular )
 
 4. KEY FEATURES OF DASHBOARD
-5. a) TOTAL SALES, AVERAGE SALES , NO.. OF ITEM , AVERAGE RATING :- at a glance KPIs
-6. b) ITEM TYPE VS AVERAGE SALES :- identify high and low performing item categories
-7. c) FAT CONTENT & OUTLET ANALYSIS :- sales comparison based on fat content across outlet types
-8. d) OUTLET SIZE ANALYSIS :- breakdown of sales based on outlet sizes ( small , medium , high )
-9. e) OUTLET LOCATION MAPPING :- tier wise performance and location based visuals
-10. f) OUTLET ESTABLISHMENT TREND :- timeline chart to observe outlet performance by year
-11. g) INTERACTIVE FILTERS :- outlet year slicers for dynamic filtering
-12. h) GEO VISUALS :- map visuals comparing average sales by location types
+a) TOTAL SALES, AVERAGE SALES , NO.. OF ITEM , AVERAGE RATING :- at a glance KPIs
+b) ITEM TYPE VS AVERAGE SALES :- identify high and low performing item categories
+c) FAT CONTENT & OUTLET ANALYSIS :- sales comparison based on fat content across outlet typesd) 
+d) OUTLET SIZE ANALYSIS :- breakdown of sales based on outlet sizes ( small , medium , high )
+e) OUTLET LOCATION MAPPING :- tier wise performance and location based visuals
+f) OUTLET ESTABLISHMENT TREND :- timeline chart to observe outlet performance by year
+g) INTERACTIVE FILTERS :- outlet year slicers for dynamic filtering
+h) GEO VISUALS :- map visuals comparing average sales by location types
 
-13.  5. TOOLS AND TECHNOLOGIES USED
+5. TOOLS AND TECHNOLOGIES USED
 POWER BI DESKTOP
 * Data Transformation using power query
 * DAX for calculated fields and kp
