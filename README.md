@@ -34,16 +34,16 @@ J) Fat Content ( Low Fat / Regular )
 12. h) GEO VISUALS :- map visuals comparing average sales by location types
 
 13.  5. TOOLS AND TECHNOLOGIES USED
-     . POWER BI DESKTOP
-      * Data Transformation using power query
-        * DAX for calculated fields and kpi
-        * Visuals - Bar Chart, Donut Chart, Line Chart, Card KPIS , Map Visuals
+POWER BI DESKTOP
+* Data Transformation using power query
+* DAX for calculated fields and kp
+* Visuals - Bar Chart, Donut Chart, Line Chart, Card KPIS , Map Visuals
 
-          6.INSIGHTS DELIVERED
-          * SUPERMARKET TYPE 1 dominates in total sales and item counts
-          * Low fat items have higher overall sales
-          * Tier 3 location are performing better in terms of volume
-          * certain items categories like fruit,snacks and household item drive higher average sales
+6.INSIGHTS DELIVERED
+* SUPERMARKET TYPE 1 dominates in total sales and item counts
+* Low fat items have higher overall sales
+* Tier 3 location are performing better in terms of volume
+* certain items categories like fruit,snacks and household item drive higher average sales
 
           
        
