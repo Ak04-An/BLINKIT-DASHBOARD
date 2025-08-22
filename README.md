@@ -74,16 +74,9 @@ The main objectives of this dashboard are to:
 📷 Dashboard Preview
 
 Here’s a snapshot of the Blinkit Grocery Sales Dashboard:
+(https://github.com/Ak04-An/BLINKIT-DASHBOARD/blob/main/blinkit%20grocery.png)
 
 
-
-
-📂 Repository Structure
-
-├── data/                          # Raw dataset used for analysis
-├── Blinkit_Grocery_Sales.pbix     # Power BI dashboard file
-├── README.md                      # Project documentation
-└── LICENSE                        # License file (optional)
 
 
 
